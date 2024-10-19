@@ -1,0 +1,13 @@
+# Python-Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtuelle Umgebungen
+venv/
+env/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Ignoriere den oldData-Ordner im src-Hauptordner
+/src/oldData/
