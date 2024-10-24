@@ -37,7 +37,7 @@
     "Python.view.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/CodeProjekte/WorkLogger",
+    "last_opened_file_path": "C:/CodeProjekte/WorkLogger/src/oldData",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -48,9 +48,13 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\CodeProjekte\WorkLogger\src\oldData" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\CodeProjekte\WorkLogger\src\old data" />
       <recent name="C:\CodeProjekte\WorkLogger" />
+      <recent name="C:\CodeProjekte\WorkLogger\src" />
+      <recent name="C:\CodeProjekte\WorkLogger\src\old data" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -73,7 +77,10 @@
       <workItem from="1729264858203" duration="161000" />
       <workItem from="1729265048035" duration="525000" />
       <workItem from="1729266549855" duration="71000" />
-      <workItem from="1729342434018" duration="3793000" />
+      <workItem from="1729342434018" duration="4830000" />
+      <workItem from="1729415353168" duration="40000" />
+      <workItem from="1729459039206" duration="161000" />
+      <workItem from="1729782481006" duration="145000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -107,7 +114,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/WorkLogger$Writer.coverage" NAME="Writer Coverage Results" MODIFIED="1729344621513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/WorkLogger$main.coverage" NAME="main Coverage Results" MODIFIED="1729344591959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/WorkLogger$WorkLogger.coverage" NAME="WorkLogger Coverage Results" MODIFIED="1729345116591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/WorkLogger$WorkLogger.coverage" NAME="WorkLogger Coverage Results" MODIFIED="1729782575663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/WorkLogger$view.coverage" NAME="view Coverage Results" MODIFIED="1729344587631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
 </project>
