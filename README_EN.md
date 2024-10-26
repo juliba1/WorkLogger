@@ -14,3 +14,5 @@ Users can manage, edit, and delete work time entries, as well as view statistics
 - **Save Function**: Work time entries are automatically saved in a JSON file and can be loaded at any time.
 - **PDF Export**: Generate a PDF file with all work time entries.
 - **Folder Selection**: Choose a save location for the PDF files.
+
+**Side Note:** This project only serves as an example, it is not executable as some personal data is missing.
