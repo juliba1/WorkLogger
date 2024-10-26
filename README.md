@@ -14,3 +14,5 @@ Der Benutzer kann die Arbeitszeitdaten verwalten, bearbeiten und löschen sowie 
 - **Speicherfunktion**: Arbeitszeiteinträge werden automatisch in einer JSON-Datei gespeichert und können jederzeit geladen werden.
 - **PDF-Export**: Generiere eine PDF-Datei mit allen Arbeitszeiteinträgen.
 - **Ordnerauswahl**: Wähle einen Speicherort für die PDF-Dateien aus.
+
+**Notiz:** Dieses Projekt dient nur als Beispiel, es ist nicht lauffähig da einige personenbezogene Daten fehlen.
